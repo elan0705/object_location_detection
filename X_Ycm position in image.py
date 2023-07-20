@@ -10,7 +10,7 @@ import time
 
 
 # In[ ]:
-#to find the locate the object in an image and get its location in cm by subtracting the foreground and background
+#to find the locate the object in an video and get its location in cm by subtracting the foreground and background
 
 cap = cv2.VideoCapture(0)
 
